@@ -9,8 +9,8 @@ Merupakan proyek backend untuk aplikasi LMS sederhana yang dibuat untuk tujuan s
 ## 📥 Clone Repository
 
 ```bash
-    git clone https://github.com/jonyxz/be_simple_lms.git
-    cd be_simple_lms
+    git clone https://github.com/Aaronnmic/UAS_PEMSIS.git
+    cd be_simple_lms_main
 ```
 
 ## 📦 Instalasi 
