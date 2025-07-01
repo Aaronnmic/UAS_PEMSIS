@@ -47,7 +47,7 @@ Validasi request.user dan kepemilikan.
 
 ```bash
     git clone https://github.com/Aaronnmic/UAS_PEMSIS.git
-    cd be_simple_lms_main
+    cd UAS_PEMSIS-main
 ```
 
 ## 📦 Instalasi 
@@ -62,7 +62,7 @@ Build dan jalankan aplikasi menggunakan `docker compose` :
 
 ### Migrasi Database
 
-Masuk ke shell container aplikasi `be_simple_lms` dan migrasi database untuk membuat tabel:
+Masuk ke shell container aplikasi `UAS_PEMSIS-main` dan migrasi database untuk membuat tabel:
 
 ```bash
     python manage.py makemigrations
